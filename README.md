@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sagar Sharma.
-## www.sagarsharma.tech (In Progress)
+## www.sagarsharma.tech 
 ##  👀 I’m interested in Web Development.
 ## 🌱 I’m currently learning how to make incredible websites.
 ## 💞️ I’m looking to collaborate on *Web Development projects*.
