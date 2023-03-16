@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sagar Sharma.
+# 👋 Hi, I’m Sagar.
 ##  👀 I’m interested in Web Development.
 ## 🌱 I’m currently learning how to make incredible websites.
 ## 💞️ I’m looking to collaborate on *Web Development projects*.
